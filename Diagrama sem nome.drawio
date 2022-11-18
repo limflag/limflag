@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T14:13:57.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="Cuc3-symV8uid32oB2ZO" type="github"><diagram id="earbVMF5uEPGbMAuAP7y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-18T14:41:58.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lvmHBtYc2FS_E1fYn_Oh" version="20.5.3" type="github">
+  <diagram id="earbVMF5uEPGbMAuAP7y" name="Página-1">
+    <mxGraphModel dx="1903" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-6" value="Condição Negociada" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="314" y="20" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-7" value="Painel de clientes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="uPqftv9LYSSAp6NvKLLp-6">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-8" value="Produtos e descontos" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="uPqftv9LYSSAp6NvKLLp-6">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-9" target="uPqftv9LYSSAp6NvKLLp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-9" value="Validada a condição na industria" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="270" width="174" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-8" target="uPqftv9LYSSAp6NvKLLp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-13" target="uPqftv9LYSSAp6NvKLLp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-13" target="uPqftv9LYSSAp6NvKLLp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-13" value="Subida da condição no MMC" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-17" target="uPqftv9LYSSAp6NvKLLp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-17" value="Pedido Enviado" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-19" target="uPqftv9LYSSAp6NvKLLp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-19" value="Recebimento no sistema da industria" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="630" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uPqftv9LYSSAp6NvKLLp-21" target="uPqftv9LYSSAp6NvKLLp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-21" value="Retorno gerado" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPqftv9LYSSAp6NvKLLp-25" value="Divulgação para equipe de vendas" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="410" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
