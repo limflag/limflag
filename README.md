@@ -56,8 +56,10 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/LimFlaG/LimFlaG/output/snake.svg" alt="Snake animation" />
+<img
+    alt="github contribution grid snake animation"
+    src="https://github.com/LimFlaG/LimFlaG/blob/output/snake.svg"
+  />
 
 ###
 
